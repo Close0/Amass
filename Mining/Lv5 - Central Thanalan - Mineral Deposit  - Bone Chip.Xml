@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<WayPointProfile>
+  <Settings>
+    <NodeDistance>4</NodeDistance>
+    <ArcDistance>6</ArcDistance>
+    <Strictness>10</Strictness>
+  </Settings>
+  <Items>
+    <ItemName>Bone Chip</ItemName>
+  </Items>
+  <Targets>
+    <TargetName>Mineral Deposit</TargetName>
+  </Targets>
+  <Paths>
+    <Node Id="0" DontConnect="" X="101.903458" Y="279.442871" Z="1.36881936" />
+    <Node Id="1" DontConnect="" X="105.781662" Y="281.571655" Z="1.12362611" />
+    <Node Id="2" DontConnect="" X="109.929359" Y="283.555176" Z="1.20257258" />
+    <Node Id="3" DontConnect="" X="114.185326" Y="285.290039" Z="1.5489676" />
+    <Node Id="4" DontConnect="" X="115.104393" Y="289.646484" Z="1.42481363" />
+    <Node Id="5" DontConnect="" X="116.482559" Y="293.90918" Z="1.46815193" />
+    <Node Id="6" DontConnect="" X="119.7189" Y="297.2133" Z="2.11952829" />
+    <Node Id="7" DontConnect="" X="123.839905" Y="299.2558" Z="2.55371261" />
+    <Node Id="8" DontConnect="" X="127.996269" Y="300.9797" Z="3.90027285" />
+    <Node Id="9" DontConnect="" X="129.575119" Y="305.0922" Z="4.064872" />
+    <Node Id="10" DontConnect="" X="130.642441" Y="309.5592" Z="3.81937528" />
+    <Node Id="11" DontConnect="" X="132.5015" Y="313.746155" Z="3.90537977" />
+    <Node Id="12" DontConnect="" X="135.092758" Y="317.4244" Z="4.42575" />
+    <Node Id="13" DontConnect="" X="138.403687" Y="320.680878" Z="4.891685" />
+    <Node Id="14" DontConnect="" X="125.375092" Y="304.9369" Z="2.83079219" />
+    <Node Id="15" DontConnect="" X="106.33725" Y="277.441376" Z="1.29117489" />
+    <Node Id="16" DontConnect="" X="107.781715" Y="273.1072" Z="1.66437459" />
+    <Node Id="17" DontConnect="" X="110.211929" Y="269.198059" Z="2.738492" />
+    <Node Id="18" DontConnect="" X="112.472649" Y="265.197235" Z="3.85159183" />
+    <Node Id="19" DontConnect="" X="114.574928" Y="261.108063" Z="5.08460045" />
+    <Node Id="20" DontConnect="" X="116.679482" Y="257.014374" Z="6.24881649" />
+    <Node Id="21" DontConnect="" X="118.7817" Y="252.925247" Z="7.53417444" />
+    <Node Id="22" DontConnect="" X="121.133636" Y="249.107056" Z="9.650764" />
+    <Node Id="23" DontConnect="" X="123.573326" Y="245.93074" Z="11.312541" />
+    <Node Id="24" DontConnect="" X="126.379181" Y="249.074875" Z="12.7541885" />
+    <Node Id="25" DontConnect="" X="126.649277" Y="253.067749" Z="13.1825361" />
+    <Node Id="26" DontConnect="" X="127.116943" Y="257.645477" Z="13.781642" />
+    <Node Id="27" DontConnect="" X="127.975365" Y="262.1557" Z="14.3290939" />
+    <Node Id="28" DontConnect="" X="129.551956" Y="266.466064" Z="14.7352381" />
+    <Node Id="29" DontConnect="" X="131.839523" Y="270.4636" Z="15.446208" />
+    <Node Id="30" DontConnect="" X="134.182755" Y="274.412018" Z="15.7975674" />
+    <Node Id="31" DontConnect="" X="136.675964" Y="278.1587" Z="15.9146347" />
+    <Node Id="32" DontConnect="" X="138.7811" Y="281.562073" Z="15.87328" />
+    <Node Id="33" DontConnect="" X="140.7429" Y="285.722626" Z="15.5003452" />
+    <Node Id="34" DontConnect="" X="142.633" Y="289.914" Z="15.1995125" />
+    <Node Id="35" DontConnect="" X="144.523911" Y="294.1072" Z="15.09981" />
+    <Node Id="36" DontConnect="" X="146.415344" Y="298.301636" Z="14.9181013" />
+    <Node Id="37" DontConnect="" X="148.478058" Y="302.388275" Z="14.676568" />
+    <Node Id="38" DontConnect="" X="134.970078" Y="283.308533" Z="15.2040625" />
+    <Node Id="39" DontConnect="" X="132.18248" Y="279.713928" Z="15.2446232" />
+    <Node Id="40" DontConnect="" X="110.135887" Y="278.7014" Z="1.45256686" />
+    <Node Id="41" DontConnect="" X="138.204758" Y="273.06955" Z="16.45531" />
+    <Node Id="42" DontConnect="" X="137.734161" Y="268.629852" Z="16.4233475" />
+    <Node Id="43" DontConnect="" X="136.2143" Y="264.299438" Z="15.852891" />
+    <Node Id="44" DontConnect="" X="134.232376" Y="260.044647" Z="15.4747372" />
+    <Node Id="45" DontConnect="" X="131.7309" Y="256.3159" Z="14.8663187" />
+    <Node Id="46" DontConnect="" X="125.1073" Y="242.0572" Z="12.5711451" />
+    <Node Id="47" DontConnect="" X="123.767258" Y="237.655121" Z="12.2491035" />
+    <Node Id="48" DontConnect="" X="122.378426" Y="233.279236" Z="11.7691193" />
+    <Node Id="49" DontConnect="" X="121.069969" Y="228.98999" Z="11.8146954" />
+  </Paths>
+</WayPointProfile>
